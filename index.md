@@ -11,7 +11,7 @@ Actually it's quite simple! Just open up your 'Settings' app and click robot's s
 Actually you don't need to! Just tell your robot "nano" and BOOM! It opens up the famous Linux text editor NANO!
 
 # Getting an App!
-Again, quite simple just tell your robot "Robot install *APP NAME* made by *APP CREATOR'S NAME*" and BOOM! you have your app!
+Again, quite simple just tell your robot "Robot install **APP NAME** made by **APP CREATOR'S NAME**" and BOOM! you have your app!
 
 # Downloading Robot-OS!
 Follow all instructions from the grey box below.
