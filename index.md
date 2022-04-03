@@ -2,7 +2,7 @@
 Robot-OS is a phone operating system and has themes similar to: GrapheneOS, Android and Linux! and has enough security to CHOKE A RHINO!!!
 
 # Why is it called Robot-OS
-It is called Robot-OS because it can do things for you! You can customize the Robot's voice and pitch and also name your robot like for example: MR. BROCCOLI |||. Now I know it's a silly example name.. BUT you can name anything you want!
+It is called Robot-OS because it can do things for you! You can choose your robot's voice and also name your robot like for example: MR. BROCCOLI |||. Now I know it's a silly example name.. BUT you can name anything you want!
 
 # Chaning your robot's settings.
 Actually it's quite simple! Just open up your 'Settings' app and click robot's settings and CUSTOMIZE!
