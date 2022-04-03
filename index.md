@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# What is Robot-OS?
+Robot-OS is a phone operating system and has themes similar to: GrapheneOS, Android and Linux! and has enough security to CHOKE A RHINO!!!
 
-You can use the [editor on GitHub](https://github.com/c0dertitan/Robot-OS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Why is it called Robot-OS
+It is called Robot-OS because it can do things for you! You can customize the Robot's voice and pitch and also name your robot like for example: MR. BROCCOLI |||. Now I know it's a silly example name.. BUT you can name anything you want!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Chaning your robot's settings.
+Actually it's quite simple! Just open up your 'Settings' app and click robot's settings and CUSTOMIZE!
 
-### Markdown
+# Finding a good text editor!
+Actually you don't need to! Just tell your robot "nano" and BOOM! It opens up the famous Linux text editor NANO!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Getting an App!
+Again, quite simple just tell your robot "Robot install *APP NAME* made by *APP CREATOR'S NAME*" and BOOM! you have your app!
+
+# Downloading Robot-OS!
+Follow all instructions from the grey box below.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/c0dertitan/Robot-OS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Downloading instructions will be out when operating system is fully developed!
