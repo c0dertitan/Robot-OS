@@ -14,7 +14,6 @@ Actually you don't need to! Just tell your robot "nano" and BOOM! It opens up th
 Again, quite simple just tell your robot "Robot install **APP NAME** made by **APP CREATOR'S NAME**" and BOOM! you have your app!
 
 # Downloading Robot-OS!
-Follow all instructions from the box below.
--------------------------------------------------------------------------------
+Follow all instructions below.
+
 |Downloading instructions will be out when operating system is fully developed!|
--------------------------------------------------------------------------------
